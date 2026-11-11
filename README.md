@@ -18,10 +18,10 @@ This project explores the machine learning workflow through a reusable pipeline:
 ---
 
 🧠 Skills Demonstrated
-- Data analysis using [library, such as pandas]
-- Data visualization with [libraries, such as Matplotlib and Seaborn]
-- Machine learning using [framework, such as scikit-learn]
-- Building and evaluating a [regression or classification] model
+- Data analysis using pandas and numpy
+- Data visualization with Matplotlib and Seaborn
+- Machine learning using scikit-learn
+- Building and evaluating a regression model
 - Organizing preprocessing and modeling steps into a pipeline
 - Writing modular and well-documented Python code
 
