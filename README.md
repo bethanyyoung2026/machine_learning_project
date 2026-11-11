@@ -1,7 +1,7 @@
 🤖 Machine Learning Pipeline Project
 Welcome to my machine learning pipeline project on GitHub!
 
-This repository is home to an end-to-end machine learning pipeline for [project task, such as predicting house prices or classifying customer churn]. The project brings together data preparation, model training, and evaluation in a structured workflow.
+This repository is home to an end-to-end machine learning pipeline for housing data. The project brings together data preparation, model training, and evaluation in a structured workflow.
 
 ---
 
